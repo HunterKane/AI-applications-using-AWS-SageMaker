@@ -1,4 +1,4 @@
-# AI-applications-using-AWS-SageMaker
+# AI-applications-using-AWS-SageMaker & HuggingFace
 
 ## Overview: 
 - Build, Train & Deploy Models with AWS SageMaker. 
